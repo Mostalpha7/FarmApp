@@ -1,6 +1,5 @@
 # farmapp
-Flutter Send off course project
-
+Fluter screen design for a farm application.
 # farmapp
 
 A new Flutter project.
